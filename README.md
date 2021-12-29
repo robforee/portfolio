@@ -5,7 +5,7 @@ Cyber Security Portfolio
 ### Log4j Lessons Learned
 * [log4j-lessons](https://github.com/robforee/log4j-lessons)
 ### SIEM Research Lab
-* [https://github.com/robforee/deploy-elkstack](deploy-elkstack)
+* [deploy-elkstack](https://github.com/robforee/deploy-elkstack)
 
 ### Automation Projects
 * Unix tools in shell scripts
