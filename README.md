@@ -6,6 +6,9 @@ Cyber Security Portfolio
 * [log4j-lessons](https://github.com/robforee/log4j-lessons)
 ### SIEM Research Lab
 * [deploy-elkstack](https://github.com/robforee/deploy-elkstack)
+* [vulnerability-scan]()
+* [exploit-vectors]()
+* [reports-alerts]()
 
 ### Automation Projects
 * Unix tools in shell scripts
