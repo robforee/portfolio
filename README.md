@@ -1,16 +1,16 @@
-# portfolio
-Cyber Security Portfolio
+# Cyber Security Portfolio
 
-* [Automated ELK Stack Deployment Procedure](https://github.com/robforee/network-lab1) for building an Azure network with ELK SIEM monitoring load balanced WP server farm.
+**Design, develop, modify, test, and integrate multi-platform information security technology systems to protect against cyber threats.**
+
+* [Automated ELK Stack Deployment Procedure](https://github.com/robforee/network-7c) 
+   * create an Azure network with ELK SIEM monitoring of load balanced WP server farm.
+   * includes Procedure, Topology, Policies, Ansible playbooks, and ELK beats configurations.
+
+**Monitor, identify, analyze, and report on cybersecurity alerts from cybersecurity tools, network devices, and information systems. **
 
 ## Projects
 [log4j work](#log4j-Lessons-Learned)
 
-m
-m
-m
-m
-m
 
 ### Log4j Lessons Learned
 * [log4j-vulnerability](https://github.com/robforee/log4j-vulnerability)
