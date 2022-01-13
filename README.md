@@ -13,7 +13,8 @@
 
 **Maintain situational awareness on current and emerging risks and threats.**
 
-* log4j analysis
+* analysis of log4j vulnerability
+* analysis of [CISA Alert AA22-011A](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a)
 
 **Conduct vulnerability scanning, analysis, and reporing**
 
