@@ -2,6 +2,14 @@
 Cyber Security Portfolio
 
 ## Projects
+[log4j work](#log4j-Lessons-Learned)
+
+m
+m
+m
+m
+m
+
 ### Log4j Lessons Learned
 * [log4j-vulnerability](https://github.com/robforee/log4j-vulnerability)
   * Review guidance, advisories and references to understand the scope of the problem.
